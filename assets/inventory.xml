@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventory>
+	<category type="Electronics">
+    <item>
+        <id>1</id>    
+        <name>Microwave Oven</name>
+        <cost>7550</cost>
+        <description>Provides consistent power for uniform cooking retaining the nutrition in the food.</description>
+		<picture>microwave_oven</picture>
+    </item> 
+    <item>
+        <id>2</id>    
+        <name>Television</name>
+        <cost>52000</cost>
+        <description>Enhances picture and sound quality to give you a stadium-like experience.</description>
+		<picture>television</picture>
+    </item> 
+    <item>
+        <id>3</id>    
+        <name>Vacuum Cleaner</name>
+        <cost>3030</cost>
+        <description>Helps in seeking and removing any trace of dirt from your homes and ridding it of dust mites.</description>
+		<picture>vacuum_cleaner</picture>
+    </item> 
+	</category>
+	<category type="Furniture">
+    <item>
+        <id>4</id>    
+        <name>Table</name>
+        <cost>4409</cost>
+        <description>San Pedro Large Coffee Table in Natural Sheesham Finish</description>
+		<picture>table</picture>
+    </item> 
+    <item>
+        <id>5</id>    
+        <name>Chair</name>
+        <cost>4450</cost>
+        <description>San Pedro Wooden Chair in Natural Sheesham Finish</description>
+		<picture>chair</picture>
+    </item>
+	<item>
+        <id>6</id>    
+        <name>Almirah</name>
+        <cost>9850</cost>
+        <description>Two Door Office Almirah by Machwel</description>
+		<picture>almirah</picture>
+    </item>
+	</category>
+</inventory>
